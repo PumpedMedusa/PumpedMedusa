@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @PumpedMedusa
 - 👀 I’m interested in Electronic Circuit and related projects.
-- 🌱 I’m currently learning Electronics and Communication Engineering 
+- 🌱 I’m an Electronics and Communication Engineer.
+- 🌱 Currently Learning C Programming and Embedded Systems.
 - 📫 You can reach me at akshaysreehari1@gmail.com 
 
 <!---
